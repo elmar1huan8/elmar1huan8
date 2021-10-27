@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @elmar1huan8
-- 👀 I’m interested in learning more about coding
-- 🌱 I’m currently learning macbook coding
+- 👀 I’m interested in learning more about developement
+- 🌱 I’m currently learning anything that peaks my curiosity.
 - 💞️ I’m looking to collaborate on not sure
 - 📫 How to reach me elmar1huan8@icloud.com
 
